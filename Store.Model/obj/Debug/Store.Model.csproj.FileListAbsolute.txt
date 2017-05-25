@@ -1,0 +1,5 @@
+D:\Sources\Store\Store.Model\bin\Debug\Store.Model.dll
+D:\Sources\Store\Store.Model\bin\Debug\Store.Model.pdb
+D:\Sources\Store\Store.Model\obj\Debug\Store.Model.csprojResolveAssemblyReference.cache
+D:\Sources\Store\Store.Model\obj\Debug\Store.Model.dll
+D:\Sources\Store\Store.Model\obj\Debug\Store.Model.pdb

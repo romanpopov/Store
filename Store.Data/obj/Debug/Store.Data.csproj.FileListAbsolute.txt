@@ -1,0 +1,12 @@
+D:\Sources\Store\Store.Data\bin\Debug\Store.Data.dll.config
+D:\Sources\Store\Store.Data\bin\Debug\Store.Data.dll
+D:\Sources\Store\Store.Data\bin\Debug\Store.Data.pdb
+D:\Sources\Store\Store.Data\bin\Debug\EntityFramework.dll
+D:\Sources\Store\Store.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sources\Store\Store.Data\bin\Debug\Store.Model.dll
+D:\Sources\Store\Store.Data\bin\Debug\Store.Model.pdb
+D:\Sources\Store\Store.Data\bin\Debug\EntityFramework.xml
+D:\Sources\Store\Store.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sources\Store\Store.Data\obj\Debug\Store.Data.csprojResolveAssemblyReference.cache
+D:\Sources\Store\Store.Data\obj\Debug\Store.Data.dll
+D:\Sources\Store\Store.Data\obj\Debug\Store.Data.pdb

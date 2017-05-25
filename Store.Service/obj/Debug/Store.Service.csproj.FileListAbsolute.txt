@@ -1,0 +1,11 @@
+D:\Sources\Store\Store.Service\obj\Debug\Store.Service.csprojResolveAssemblyReference.cache
+D:\Sources\Store\Store.Service\bin\Debug\Store.Service.dll
+D:\Sources\Store\Store.Service\bin\Debug\Store.Service.pdb
+D:\Sources\Store\Store.Service\bin\Debug\Store.Data.dll
+D:\Sources\Store\Store.Service\bin\Debug\Store.Model.dll
+D:\Sources\Store\Store.Service\bin\Debug\EntityFramework.dll
+D:\Sources\Store\Store.Service\bin\Debug\Store.Data.pdb
+D:\Sources\Store\Store.Service\bin\Debug\Store.Model.pdb
+D:\Sources\Store\Store.Service\bin\Debug\EntityFramework.xml
+D:\Sources\Store\Store.Service\obj\Debug\Store.Service.dll
+D:\Sources\Store\Store.Service\obj\Debug\Store.Service.pdb
